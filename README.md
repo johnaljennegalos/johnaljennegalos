@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I%27m+John+Aljenne+Galos!" />
 </h1>
 
-### A Computer Science student passionate about building beautiful, functional, and user-centric web applications.
+### A Computer Science student passionate about building beautiful, functional, and user-centric web applications. 🚀 Currently focused on full-stack web development and backend systems.
+
 
 - 👋 Hi, I’m John Aljenne Galos
 - 🌱 I’m currently learning **Python & Django**
@@ -26,7 +27,7 @@
 
 <br/>
 
-## 🛠️ Languages and Tools
+## 🧠 Tech Stack
 
 <br>
 
@@ -34,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,cpp,java,python,django" />
 </p>
 
-## 🛠️ Tools & Editors
+## 🛠️ Tools & IDEs
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
