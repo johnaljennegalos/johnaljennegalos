@@ -10,7 +10,12 @@
 - 👋 Hi, I’m John Aljenne Galos
 - 🌱 I’m currently learning **Python & Django**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
-
+<br>
+  👋 <b>Current Status:</b> Building (Django CRM Protoype)
+  <br>
+  🌱 <b>Learning:</b> Python, Django, Database Design, System Architecture
+  <br>
+  <br>
 <br>
 
 <div align="center">
@@ -50,6 +55,12 @@
 </p>
 <br>
 
+## 🚧 Current "Deep Work"
+- [🦅 **CRM Prototype**](https://github.com/johnaljennegalos/Prototype)  
+  *In Progress* — A full-stack Customer Relationship Management system built with **Django**. 
+  - **Features:** Dashboard visualization, Database Relational Models (One-to-Many), CRUD functionality, Dynamic URL Routing.
+  - **Goal:** Mastering the backend architecture of enterprise applications.
+
 ## 🧰 Featured Projects
 
 - [💼 PizzaHaus Ordering and Admin Website](https://github.com/aljnmusic/Pizzahaus_Ordering_Website-Database)  
@@ -84,7 +95,7 @@
   <br />
 
   <p>👀 Visitor count:</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=johnaljennegalos.johnaljennegalos&left_color=blue&right_color=green" alt="Visitor Badge" />
 </div>
 
 ## 🐍 My Contributions
