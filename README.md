@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,cpp,java,python,django" />
 </p>
 
 ## 🛠️ Tools & Editors
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/IDE-PhpStorm-00599C?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
+  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm IDE" />
   <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" alt="NetBeans" />
   <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
@@ -64,12 +65,21 @@
 <div align="center">
   <p>Here’s a quick look at my GitHub activity and favorite languages:</p>
   
+  <!--
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=johnaljennegalos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="aljnmusic's GitHub Stats" />
+  -->
+
+  ![Stats Card 2](https://awesome-github-stats.azurewebsites.net/user-stats/johnaljennegalos?theme=github&cardType=octocat)
   
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=johnaljennegalos&theme=transparent&count_private=true&border_radius=10&locale=en" alt="johnaljennegalos's GitHub Streak" />
-  
+
+  <!--
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnaljennegalos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="aljnmusic's Most Used Languages" />
+  -->
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnaljennegalos&theme=transparent"/>
   
+  <br />
   <br />
 
   <p>👀 Visitor count:</p>
@@ -84,7 +94,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnaljennegalos/johnaljennegalos/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/johnaljennegalos/johnaljennegalos/output/github-contribution-grid-snake.svg" />
   </picture>
+
+  ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/johnaljennegalos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+  
 </div>
+
 
 <hr>
 
