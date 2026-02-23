@@ -56,7 +56,7 @@
 <br>
 
 ## 🚧 Current "Deep Work"
-- [🦅 **CRM Prototype**](https://github.com/johnaljennegalos/Prototype)  
+- [🦅 **django-pos-scanner**](https://github.com/johnaljennegalos/django-pos-scanner)  
   *In Progress* — A full-stack Customer Relationship Management system built with **Django**. 
   - **Features:** Dashboard visualization, Database Relational Models (One-to-Many), CRUD functionality, Dynamic URL Routing.
   - **Goal:** Mastering the backend architecture of enterprise applications.
