@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Python & Django**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
 <br>
-  👋 <b>Current Status:</b> Building (Django CRM Protoype)
+  👋 <b>Current Status:</b> Building (Django POS System)
   <br>
   🌱 <b>Learning:</b> Python, Django, Database Design, System Architecture
   <br>
