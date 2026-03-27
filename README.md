@@ -1,4 +1,4 @@
-![Django CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/django_ci.yml/badge.svg)
+![Django CI](https://github.com/johnaljennegalos/django-pos-scanner/actions/workflows/django.ci.yml/badge.svg)
 
 ![Header](./github-header-banner.png)
 
