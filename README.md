@@ -1,3 +1,5 @@
+![Django CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/django_ci.yml/badge.svg)
+
 ![Header](./github-header-banner.png)
 
 <h1 align="center">
