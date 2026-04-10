@@ -38,7 +38,7 @@
 
 ### 🚀 Currently Using
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django" />
 </p>
 
 ### 🗄️ Databases
