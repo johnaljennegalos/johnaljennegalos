@@ -41,30 +41,35 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,sqlite" />
 </p>
 
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
 ### 🧪 Explored / Previously Used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,cpp,java,mysql" />
 </p>
 
+
 ## 🛠️ Tools & IDEs
 
-### 🚀 Currently Using
+### 🧰 Primary
 <p align="center">
-  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm IDE" />
+  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
-### 🧪 Explored / Previously Used
+### 🧩 Familiar With
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/IDE-PhpStorm-00599C?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
-  <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
-  <img src="https://img.shields.io/badge/Tool-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
-  <img src="https://img.shields.io/badge/Tool-draw.io-007ACC?style=for-the-badge&logo=draw.io&logoColor=white" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-PhpStorm-00599C?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-draw.io-007ACC?style=for-the-badge&logo=draw.io&logoColor=white" />
 </p>
-<br>
 
 ## 🚧 Current "Deep Work"
 - [🦅 **django-pos-scanner**](https://github.com/johnaljennegalos/django-pos-scanner)  
