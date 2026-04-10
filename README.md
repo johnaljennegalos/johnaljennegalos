@@ -47,12 +47,17 @@
 </p>
 
 ## 🛠️ Tools & IDEs
-<br>
+
+### 🚀 Currently Using
+<p align="center">
+  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm IDE" />
+</p>
+
+### 🧪 Explored / Previously Used
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/IDE-PhpStorm-00599C?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
-  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm IDE" />
   <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" alt="NetBeans" />
   <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
