@@ -36,10 +36,14 @@
 
 ## 🧠 Tech Stack
 
-<br>
-
+### 🚀 Currently Using
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,cpp,java,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,mysql" />
+</p>
+
+### 🧪 Explored / Previously Used
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cpp,java" />
 </p>
 
 ## 🛠️ Tools & IDEs
