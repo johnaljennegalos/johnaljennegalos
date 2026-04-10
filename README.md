@@ -38,12 +38,12 @@
 
 ### 🚀 Currently Using
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,sqlite" />
 </p>
 
 ### 🧪 Explored / Previously Used
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=php,cpp,java,mysql" />
 </p>
 
 ## 🛠️ Tools & IDEs
