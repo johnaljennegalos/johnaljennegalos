@@ -52,6 +52,14 @@
   <img src="https://skillicons.dev/icons?i=php,cpp,java,mysql" />
 </p>
 
+## ☁️ Infrastructure & Deployment
+
+### 🌐 Hosting & Domain
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Name.com-00B2B2?style=for-the-badge&logo=namedotcom&logoColor=white" />
+</p>
+
 
 ## 🛠️ Tools & IDEs
 
