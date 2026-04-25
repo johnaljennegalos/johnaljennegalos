@@ -44,6 +44,7 @@
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### 🧪 Explored / Previously Used
