@@ -10,7 +10,7 @@
 
 
 - 👋 Hi, I’m John Aljenne Galos
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **Django Rest Framework**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
 <br>
   👋 <b>Current Status:</b> Building (Django POS System)
