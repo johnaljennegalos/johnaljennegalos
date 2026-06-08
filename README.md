@@ -80,6 +80,9 @@
   <img src="https://img.shields.io/badge/Tool-draw.io-007ACC?style=for-the-badge&logo=draw.io&logoColor=white" />
 </p>
 
+## 🎧 Currently listening
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvzyh54r4hm74i7nevcq2ggnpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🚧 Current "Deep Work"
 - [🦅 **django-pos-scanner**](https://github.com/johnaljennegalos/django-pos-scanner)  
   *In Progress* — A full-stack Customer Relationship Management system built with **Django**. 
