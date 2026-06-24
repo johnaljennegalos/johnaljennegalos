@@ -13,9 +13,9 @@
 - 🌱 I’m currently learning **Django Rest Framework**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
 <br>
-  👋 <b>Current Status:</b> Building (Django POS System)
+  👋 <b>Current Status:</b> Learning DRF (Django Rest Framework)
   <br>
-  🌱 <b>Learning:</b> Python, Django, Database Design, System Architecture
+  🌱 <b>Learning:</b> Python, Django, DRF, Database Design, System Architecture
   <br>
   <br>
 <br>
