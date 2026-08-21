@@ -10,12 +10,12 @@
 
 
 - 👋 Hi, I’m John Aljenne Galos
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
 <br>
-  👋 <b>Current Status:</b> Learning DRF (Django Rest Framework)
+  👋 <b>Current Status:</b> Learning Flutter
   <br>
-  🌱 <b>Learning:</b> Python, Django, DRF, Database Design, System Architecture
+  🌱 <b>Also exploring:</b> Python, Django, DRF, Database Design, System Architecture
   <br>
   <br>
 <br>
@@ -38,7 +38,7 @@
 
 ### 🚀 Currently Using
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,flutter" />
 </p>
 
 ### 🗄️ Databases
