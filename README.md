@@ -39,6 +39,7 @@
 ### 🚀 Currently Using
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,flutter" />
+  <img src="https://www.django-rest-framework.org/img/logo.png" width="50" />
 </p>
 
 ### 🗄️ Databases
